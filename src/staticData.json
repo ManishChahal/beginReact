@@ -1,0 +1,7 @@
+{
+    "usersArray" : [
+        {"name" : "Manish Chahal", "company" : "Google"},
+        {"name" : "Dan Abramov", "company" : "Facebook"},
+        {"name" : "Kaushik Kaul", "company" : "Microsoft"}
+    ]
+}
